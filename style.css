@@ -74,3 +74,6 @@ img{
     border-image: linear-gradient(#ff6347, #363636);
     border-image-slice: 1; 
 }
+footer p{
+    text-align: center;
+}
