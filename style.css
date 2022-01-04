@@ -44,3 +44,33 @@ img{
     background-repeat: no-repeat;
     background-position: right;
 }
+.exp-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.exp-area .exp-item{
+    width: 50%;
+    margin: 30px;
+    text-align: justify;
+}
+.exp-area h3{
+    color: #ff6347;
+}
+.exp-area .container{
+    padding: 30px;
+}
+.exp-area .bx-shadow{
+    box-shadow: 10px 10px 25px #363636;
+    padding: 36px;
+}
+#full-stack-web{
+    border-left: 10px solid #ff6347;
+    
+}
+#frontend-web{
+    border-left: 10px solid;
+    border-image: linear-gradient(#ff6347, #363636);
+    border-image-slice: 1; 
+}
